@@ -1,0 +1,7 @@
+python-decouple
+pydrive
+pyVmomi
+tqdm
+jinja2
+pytz
+csv-diff
