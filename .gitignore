@@ -1,5 +1,6 @@
 settings.yaml
 client_secrets.json
+*.log
 Downloads/
 Latest/
 temp*
