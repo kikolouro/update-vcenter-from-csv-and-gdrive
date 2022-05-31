@@ -1,6 +1,7 @@
 settings.yaml
 client_secrets.json
 *.log
+*.csv
 Downloads/
 Latest/
 temp*
